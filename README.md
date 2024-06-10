@@ -30,7 +30,7 @@ Follow these steps to get your development environment set up:
 
 Clone the Repository
 Start by cloning the project repository to your local machine. Open your terminal, navigate to the directory where you want to store the project and run:
-git clone https://github.com/dgrabo/agroavenija.git
+git clone (https://github.com/lovrek169/AgroAvenija-)
 
 Install Dependencies
 Once the repository is cloned, you'll need to install all of the required dependencies. Navigate to the project directory if you haven't already and run:
