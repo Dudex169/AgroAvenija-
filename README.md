@@ -10,7 +10,7 @@ IDE Setup
 An IDE with Flutter support, such as Android Studio or Visual Studio Code, is required. Ensure that you have the Flutter and Dart plugins installed. For Visual Studio Code, you can find these in the Extensions marketplace. In Android Studio, these can be installed from the Plugins section in the IDE settings.
 
 Android Studio and Emulator Setup
-Although the code is written in Visual Studio Code, an emulator from Android Studio is used to run and test the application. Therefore, Android Studio must be installed, not just for coding but also to utilize the Android emulator. Within Android Studio, ensure you have accessed the SDK Manager to install the Android SDK. You can find the SDK Manager under "Tools > SDK Manager" in Android Studio. This is crucial for running the emulator and for building projects targeting various Android versions.
+Therefore, Android Studio must be installed, not just for coding but also to utilize the Android emulator. Within Android Studio, ensure you have accessed the SDK Manager to install the Android SDK. You can find the SDK Manager under "Tools > SDK Manager" in Android Studio. This is crucial for running the emulator and for building projects targeting various Android versions.
 
 In terminal or command line, type flutter doctor which will check your Flutter environment and show the installed versions of Flutter and Dart SDKs. If there is message 'No issues found!', you should be good to go. You can also type flutter --version to get information about the installed version of Flutter only.
 
