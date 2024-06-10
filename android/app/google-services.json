@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897745720785",
+    "project_id": "agro-avenija---firebase",
+    "storage_bucket": "agro-avenija---firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897745720785:android:8a7d53b3e225eea4fa7cf0",
+        "android_client_info": {
+          "package_name": "com.mycompany.agroavenija"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN-BOLepAH601fLgpStnGduMR4OkZ-wDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
